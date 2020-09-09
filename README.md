@@ -8,7 +8,7 @@ Sokoban game implemented with C language.
 ![overview](https://user-images.githubusercontent.com/24523745/92642416-73588a80-f2e0-11ea-94c2-270372d80a63.png)
 
 # Compiling and running the game
-First of all make sure that the game files and the sprites with 'game-sprites' are in the same directory in your computer.
+First of all make sure that the game files and the sprites within 'game-sprites' directory are in the same folder in your computer.
 
 To compile the game run the following command: 
 
